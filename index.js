@@ -69,7 +69,7 @@ const userName = readlineSync.question("What's your name?\n");
 console.log(chalk.blueBright.bgWhite.bold(`               Welcome ${chalk.red(userName)}, \n Let's check how much you know about 'The Avengers'.`));
 console.log(chalk.white('__________________________________________'))
 
-console.log(chalk.blueBright(`You have to answer question relaed to 'The Avengers' movies. \n#1. Every correct answer will give you two points.\n#2.For wrong answer NO GAIN, ONLY PAIN😥. 🚨Your score will decrease by five. \n#3. Enter the correct option to answer the question.\nSo 'Avengers Assemble'!`));
+console.log(chalk.blueBright(`You have to answer question related to 'The Avengers' movies. \n#1. Every correct answer will give you five points.\n#2.For wrong answer NO GAIN, ONLY PAIN😥. 🚨Your score will decrease by five. So be cautious. \n#3. Enter the correct option to answer the question.\nSo 'Avengers Assemble'!`));
 
 console.log(chalk.red(`\n\n  I hope you will enjoy it. :)\n  Best Of Luck!`));
 }

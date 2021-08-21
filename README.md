@@ -4,7 +4,7 @@ Avengers movie quiz game build with javascript CLI.
 ![LCO Mascot](head.png)
 
 >### What is this 'Avenger Movies Quiz'?
-    This is a javascript Command-Line-Interface quiz based on marvel's 'The Avenger' movie series. It uses a Javascript console to show the output.
+This is a javascript Command-Line-Interface quiz based on marvel's 'The Avenger' movie series. It uses a Javascript console to show the output.
 
 >### What are the special things in this code that one should know?
 Here are some special things that I would like to tell about app:

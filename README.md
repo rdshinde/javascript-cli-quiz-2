@@ -10,9 +10,9 @@ This is a javascript Command-Line-Interface quiz based on marvel's 'The Avenger'
 Here are some special things that I would like to tell about app:
 
 1. Javascript array of objects is used to store quiz questions and answers.
-2. npm readline-sync is used to take input from user.
-3. npm chalk is used to do some designing on CLI.
-4. Javascript Math.random is used to output random messages.
+2. `npm readline-sync` is used to take input from user.
+3. `npm chalk` is used to do some designing on CLI.
+4. Javascript `Math.random` is used to output random messages.
 5. Infinite loop concept.
 
 and that's it.

@@ -19,7 +19,7 @@ const questionBank = [
    c : Loki\n Option: `,
   ans : 'c'
   },
-  {question:`\n 3. In which movie 🎥 'Vision' was borned?. 
+  {question:`\n 3. In which movie 🎥 'Vision' was born?. 
    a : The Avengers (2012)
    b : Avengers: Age of Ultron (2015) 
    c : Avengers: Infinity War (2018)\n Option: `,
